@@ -7,8 +7,4 @@ modify in 5pm
 modify in 11pm
 modify in 0：11
 modify in 0：14
-<<<<<<< Updated upstream
-modify in 0：22
-=======
 modify in 0：23
->>>>>>> Stashed changes
